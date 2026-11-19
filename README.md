@@ -1,4 +1,5 @@
 ![Profile Banner](./profile-banner.png.PNG)
+
 # Hi there, I'm Hanan Alharbi 👋
 
 ### Computer Science | AI & Machine Learning | Software Development
@@ -51,8 +52,7 @@ A team-based mobile application designed to improve attendance management in hig
 - Attendance history and course session features.
 - Faculty session functionality.
 
-[View Repository](https://github.com/hanan-alharbi-cs/IAttend-System)
-
+[View Repository](https://github.com/hanan-alharbi-cs/IAttend-System) | [Watch Demo](https://youtu.be/--7hJHmCb1k)
 
 ### 2. Rashed – AI-Assisted Water Conservation
 
