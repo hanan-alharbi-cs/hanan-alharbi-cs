@@ -1,3 +1,4 @@
+![Profile Banner](./profile-banner.png.PNG)
 # Hi there, I'm Hanan Alharbi 👋
 
 ### Computer Science | AI & Machine Learning | Software Development
