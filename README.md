@@ -72,6 +72,8 @@ A web development project for an online gift shopping experience.
 
 ---
 
+
 ## 📫 Connect With Me
 
-- [GitHub](https://github.com/hanan-alharbi-cs)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hanan-alharbi-7a9b9037a/)
+- 💻 [GitHub](https://github.com/hanan-alharbi-cs)
