@@ -3,10 +3,9 @@
 
 ### Computer Science | AI & Machine Learning | Software Development
 
-I'm a Computer Science student at Taibah University with an interest in building practical software solutions and exploring Artificial Intelligence and Machine Learning.
+Computer Science graduate-to-be at Taibah University, interested in Artificial Intelligence, Machine Learning, and Software Development.
 
-I enjoy developing applications, learning new technologies, and turning ideas into working projects.
-
+I enjoy building practical applications, exploring new technologies, and turning ideas into meaningful solutions.
 ---
 
 ## 👩‍💻 About Me
