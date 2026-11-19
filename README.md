@@ -38,9 +38,19 @@ I enjoy building practical applications, exploring new technologies, and turning
 
 ### 1. IAttend – Smart Attendance Management System
 
-A mobile-based attendance management system that combines facial verification and location validation to support accurate attendance tracking.
+A team-based mobile application designed to improve attendance management in higher education using facial verification and GPS-based location validation.
 
-**Technologies:** Flutter, Dart, FastAPI, Python, Supabase, TensorFlow, Keras.
+**Technologies:** Flutter, Dart, FastAPI, Python, Supabase, PostgreSQL, TensorFlow, Keras.
+
+**My Contribution:**
+- Database implementation (`database.py`).
+- User registration and login functionality.
+- Session creation and management.
+- Facial verification and location verification.
+- Attendance history and course session features.
+- Faculty session functionality.
+
+[View Repository](https://github.com/hanan-alharbi-cs/IAttend-System)
 
 [View Repository](https://github.com/hanan-alharbi-cs/IAttend-System)
 
