@@ -53,7 +53,6 @@ A team-based mobile application designed to improve attendance management in hig
 
 [View Repository](https://github.com/hanan-alharbi-cs/IAttend-System)
 
-[View Repository](https://github.com/hanan-alharbi-cs/IAttend-System)
 
 ### 2. Rashed – AI-Assisted Water Conservation
 
