@@ -55,11 +55,21 @@ A team-based mobile application designed to improve attendance management in hig
 
 [View Repository](https://github.com/hanan-alharbi-cs/IAttend-System)
 
-### 2. Rashed – AI-Powered Water Conservation
+### 2. Rashed – AI-Assisted Water Conservation
 
-An AI-powered web application designed to support water conservation through intelligent insights.
+A bilingual AI-powered web application designed to help Saudi households understand their water consumption, analyze water bills, identify unusual consumption patterns, and explore practical water conservation strategies.
 
-**Technologies:** React, TypeScript, Node.js, Express.js, PostgreSQL, Gemini AI.
+The platform integrates Google Gemini AI to extract information from water bills, interpret consumption patterns, and generate personalized water-saving recommendations.
+
+**My Role: Team Lead | AI Component & Research**
+
+**My Contribution:**
+- **Team Leadership:** Led the team, coordinated tasks, and helped align the project development with its objectives.
+- **AI Component:** Took responsibility for the AI-focused component, exploring the use of Google Gemini in bill data extraction, consumption analysis, AI-powered recommendations, and the intelligent assistant.
+- **Research & Information Gathering:** Researched and gathered relevant information, data, and references related to household water consumption and water conservation.
+- **AI Use Cases:** Identified opportunities to apply AI to make water consumption data easier to understand and support informed decision-making.
+
+**Technologies:** React 19, TypeScript, Vite, Node.js, Express.js, PostgreSQL, Drizzle ORM, Google Gemini 2.5 Flash.
 
 [View Repository](https://github.com/hanan-alharbi-cs/Rashed) | [Live Demo](https://rashed-water.replit.app)
 
