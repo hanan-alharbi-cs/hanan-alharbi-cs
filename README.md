@@ -1,19 +1,22 @@
-
 # Hi there, I'm Hanan Alharbi 👋
 
 ### Computer Science | AI & Machine Learning | Software Development
 
-Computer Science graduate-to-be at Taibah University, interested in Artificial Intelligence, Machine Learning, and Software Development.
+Computer Science student at Taibah University, interested in Artificial Intelligence, Machine Learning, and Software Development.
 
 I enjoy building practical applications, exploring new technologies, and turning ideas into meaningful solutions.
+
 ---
 
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science student at Taibah University.
-- 🤖 Interested in Artificial Intelligence and Machine Learning.
-- 💻 Interested in Software Development and Mobile Applications.
-- 🚀 Always learning and building new projects.
+- 🤖 Interested in AI, Machine Learning, and intelligent applications.
+- 📱 Experienced in developing mobile and web applications.
+- 🧩 Enjoy working on projects that combine software development and AI.
+- 🚀 Continuously learning and exploring new technologies.
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -34,28 +37,31 @@ I enjoy building practical applications, exploring new technologies, and turning
 ## 🚀 Featured Projects
 
 ### 1. IAttend – Smart Attendance Management System
-A mobile-based attendance system that combines facial verification and location validation.
+
+A mobile-based attendance management system that combines facial verification and location validation to support accurate attendance tracking.
 
 **Technologies:** Flutter, Dart, FastAPI, Python, Supabase, TensorFlow, Keras.
 
 [View Repository](https://github.com/hanan-alharbi-cs/IAttend-System)
 
 ### 2. Rashed – AI-Powered Water Conservation
+
 An AI-powered web application designed to support water conservation through intelligent insights.
 
-**Technologies:** React, TypeScript, Node.js, Express, PostgreSQL, Gemini AI.
+**Technologies:** React, TypeScript, Node.js, Express.js, PostgreSQL, Gemini AI.
 
-[View Repository](https://github.com/hanan-alharbi-cs/Rashed)  
-[Live Demo](https://rashed-water.replit.app)
+[View Repository](https://github.com/hanan-alharbi-cs/Rashed) | [Live Demo](https://rashed-water.replit.app)
 
 ### 3. Parallel Computing Project
-A parallel computing project implementing Square Pyramidal Numbers using MPI and OpenMP.
+
+A parallel computing project implementing Square Pyramidal Numbers using parallel programming techniques.
 
 **Technologies:** C/C++, MPI, OpenMP.
 
 [View Repository](https://github.com/hanan-alharbi-cs/Parallel-Computing-Project)
 
 ### 4. 3D Kaaba Scene
+
 A 3D graphics project featuring textures, lighting, and a rain particle system.
 
 **Technologies:** Java, JavaFX.
@@ -63,6 +69,7 @@ A 3D graphics project featuring textures, lighting, and a rain particle system.
 [View Repository](https://github.com/hanan-alharbi-cs/kaaba-3d-scene)
 
 ### 5. Online Gift Shop
+
 A web development project for an online gift shopping experience.
 
 **Technologies:** HTML, CSS, JavaScript.
@@ -70,7 +77,6 @@ A web development project for an online gift shopping experience.
 [View Repository](https://github.com/hanan-alharbi-cs/online-gift-shop)
 
 ---
-
 
 ## 📫 Connect With Me
 
