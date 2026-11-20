@@ -1,99 +1,184 @@
 ![Profile Banner](./profile-banner.png.PNG)
 
-# Hi there, I'm Hanan Alharbi 👋
+# Hi, I'm Hanan Alharbi 👋
 
-### Computer Science | AI & Machine Learning | Software Development
+### Computer Science | Applied AI & Machine Learning | Software Development
 
-Computer Science student at Taibah University, interested in Artificial Intelligence, Machine Learning, and Software Development.
+Final-year Computer Science student at **Taibah University**, expected to graduate in **January 2027**.
 
-I enjoy building practical applications, exploring new technologies, and turning ideas into meaningful solutions.
+I build data-driven software solutions that turn ideas into practical applications. My interests span Artificial Intelligence, Machine Learning, backend development, and web and mobile application development.
+
+I enjoy solving real-world problems through technology, exploring new tools, and building projects that combine software engineering with applied AI.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science student at Taibah University.
-- 🤖 Interested in AI, Machine Learning, and intelligent applications.
-- 📱 Experienced in developing mobile and web applications.
-- 🧩 Enjoy working on projects that combine software development and AI.
-- 🚀 Continuously learning and exploring new technologies.
+- 🎓 Bachelor's student in Computer Science at Taibah University.
+- 🤖 Interested in Applied AI, Machine Learning, and intelligent systems.
+- 💻 Experienced in Python development, backend APIs, and software engineering.
+- 📱 Worked on web and mobile application development.
+- 🧠 Interested in data-driven solutions, computer vision, and sports analytics.
+- 🚀 Enjoy collaborating on technical projects and turning ideas into working prototypes.
+- 🌍 Open to opportunities in AI, Machine Learning, and Software Development.
 
 ---
 
 ## 🛠️ Technical Skills
 
 **Programming Languages**
-- Python, Java, C++, JavaScript, TypeScript, Dart, SQL
+- Python, Java, C/C++, JavaScript, TypeScript, Dart, SQL
 
-**Frameworks & Technologies**
-- Flutter, FastAPI, React, Express.js
-- TensorFlow, Keras
-- Supabase, PostgreSQL
-- MPI, OpenMP
+**AI, Machine Learning & Computer Vision**
+- Scikit-learn, TensorFlow, Keras
+- Logistic Regression, Transfer Learning
+- FaceNet, Siamese Networks
+- OpenCV, MTCNN
+- Google Gemini, Google Gen AI SDK
 
-**Tools**
-- Git, GitHub, Visual Studio Code
+**Backend Development**
+- FastAPI, Node.js, Express.js
+- REST API Development
+- Pydantic, SQLModel, SQLAlchemy
+- JWT Authentication
+
+**Web & Mobile Development**
+- React, Flutter, Streamlit, JavaFX
+- HTML, CSS, Vite, Tailwind CSS
+
+**Databases & Data Processing**
+- PostgreSQL, Supabase, SQLite
+- Pandas, NumPy, SciPy
+- Drizzle ORM
+
+**Parallel Computing**
+- MPI
+- OpenMP
+
+**Tools & Technologies**
+- Git, GitHub
+- Visual Studio Code
+- Visual Studio
+- NetBeans
+- Pytest
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. IAttend – Smart Attendance Management System
+### 1. AIRA – Athlete Insight, Readiness & Analytics
 
-A team-based mobile application designed to improve attendance management in higher education using facial verification and GPS-based location validation.
+An AI-powered athlete readiness and injury-risk decision-support system designed to help coaches monitor training workloads, evaluate recovery indicators, and identify potential risk patterns.
 
-**Technologies:** Flutter, Dart, FastAPI, Python, Supabase, PostgreSQL, TensorFlow, Keras.
+The system combines a rule-based readiness engine with a temporal Machine Learning model to generate readiness scores, risk assessments, early warnings, and explainable recommendations.
 
-**My Contribution:**
-- Database implementation (`database.py`).
+**My Role:** Team Lead | Team of 3
+
+**Key Contributions:**
+- Led the project team and coordinated development activities.
+- Worked on the hybrid AI decision-support concept.
+- Combined rule-based readiness assessment with temporal ML risk estimation.
+- Developed What-If scenario simulation and event readiness capabilities.
+
+**Technologies:** Python, FastAPI, Streamlit, Scikit-learn, Logistic Regression, Pandas, NumPy, SciPy, Joblib, Plotly, SQLite.
+
+[GitHub Repository](https://github.com/hanan-alharbi-cs/AIRA) | [Live Demo](https://tp9cdmkudbq9svafbkkzoq.streamlit.app/) | [Project Demo Video](https://youtu.be/0rxrEvFUUQc)
+
+---
+
+### 2. Rashed – AI-Assisted Water Conservation
+
+A bilingual AI-assisted water conservation platform designed to help Saudi households understand water consumption, analyze water bills, identify unusual consumption patterns, and explore practical water-saving strategies.
+
+The platform integrates Google Gemini for bill information extraction, AI-assisted interpretation, and personalized conservation recommendations, while deterministic backend calculations handle numerical analysis.
+
+**My Role:** Team Lead | AI Component & Research | Team of 5
+
+**Key Contributions:**
+- Led and coordinated the project team.
+- Took responsibility for the AI-focused component and explored Google Gemini use cases.
+- Researched household water consumption and conservation.
+- Identified AI opportunities for bill extraction, consumption insights, and intelligent recommendations.
+
+**Technologies:** React, TypeScript, Vite, Tailwind CSS, Node.js, Express.js, PostgreSQL, Drizzle ORM, Google Gen AI SDK, Gemini 2.5 Flash.
+
+[GitHub Repository](https://github.com/hanan-alharbi-cs/Rashed) | [Live Demo](https://rashed-water.replit.app)
+
+---
+
+### 3. IAttend – Intelligent Attendance Management System
+
+A mobile-based smart attendance management system designed for higher education, combining facial verification and location-based validation to support attendance check-in and check-out.
+
+The system supports faculty session management, student attendance, attendance history, and reporting.
+
+**Project Type:** Capstone / Graduation Project
+
+**Technologies:** Flutter, Dart, Python, FastAPI, Supabase, PostgreSQL, TensorFlow, Keras, FaceNet, Siamese Networks, OpenCV, MTCNN, Geolocator.
+
+**Key Contributions:**
+- Database implementation and backend integration.
 - User registration and login functionality.
 - Session creation and management.
 - Facial verification and location verification.
 - Attendance history and course session features.
 - Faculty session functionality.
 
-[View Repository](https://github.com/hanan-alharbi-cs/IAttend-System) | [Watch Project Walkthrough](https://youtu.be/--7hJHmCb1k)
-### 2. Rashed – AI-Assisted Water Conservation
+[GitHub Repository](https://github.com/hanan-alharbi-cs/IAttend-System) | [Project Walkthrough](https://youtu.be/--7hJHmCb1k)
 
-A bilingual AI-powered web application designed to help Saudi households understand their water consumption, analyze water bills, identify unusual consumption patterns, and explore practical water conservation strategies.
+---
 
-The platform integrates Google Gemini AI to extract information from water bills, interpret consumption patterns, and generate personalized water-saving recommendations.
+### 4. Parallel Computing – Performance Analysis
 
-**My Role: Team Lead | AI Component & Research**
+A parallel computing project that implements Square Pyramidal Number calculations using serial, MPI, and OpenMP approaches.
 
-**My Contribution:**
-- **Team Leadership:** Led the team, coordinated tasks, and helped align the project development with its objectives.
-- **AI Component:** Took responsibility for the AI-focused component, exploring the use of Google Gemini in bill data extraction, consumption analysis, AI-powered recommendations, and the intelligent assistant.
-- **Research & Information Gathering:** Researched and gathered relevant information, data, and references related to household water consumption and water conservation.
-- **AI Use Cases:** Identified opportunities to apply AI to make water consumption data easier to understand and support informed decision-making.
+The project explores workload distribution and compares execution time across different parallel programming models.
 
-**Technologies:** React 19, TypeScript, Vite, Node.js, Express.js, PostgreSQL, Drizzle ORM, Google Gemini 2.5 Flash.
-
-[View Repository](https://github.com/hanan-alharbi-cs/Rashed) | [Live Demo](https://rashed-water.replit.app)
-
-### 3. Parallel Computing Project
-
-A parallel computing project implementing Square Pyramidal Numbers using parallel programming techniques.
+**My Role:** OpenMP Developer
 
 **Technologies:** C/C++, MPI, OpenMP.
 
-[View Repository](https://github.com/hanan-alharbi-cs/Parallel-Computing-Project)
+**Key Contributions:**
+- Developed the OpenMP implementation.
+- Applied parallel loop execution and reduction.
+- Used static scheduling for iteration distribution.
+- Worked with configurable thread counts and execution-time measurement.
 
-### 4. 3D Kaaba Scene
+[GitHub Repository](https://github.com/hanan-alharbi-cs/Parallel-Computing-Project)
 
-A 3D graphics project featuring textures, lighting, and a rain particle system.
+---
 
-**Technologies:** Java, JavaFX.
+### 5. 3D Kaaba Scene – JavaFX
 
-[View Repository](https://github.com/hanan-alharbi-cs/kaaba-3d-scene)
+An interactive 3D visualization of the Kaaba and its surrounding environment, developed using JavaFX.
 
-### 5. Online Gift Shop
+The scene includes textured 3D objects, nighttime lighting, an animated moon, interactive camera controls, and a toggleable rain particle system.
 
-A web development project for an online gift shopping experience.
+**Technologies:** Java, JavaFX, 3D Graphics, PhongMaterial, PerspectiveCamera, JavaFX Animation.
 
-**Technologies:** HTML, CSS, JavaScript.
+[GitHub Repository](https://github.com/hanan-alharbi-cs/kaaba-3d-scene)
 
-[View Repository](https://github.com/hanan-alharbi-cs/online-gift-shop)
+---
+
+### 6. Online Gift Shop – Web Development
+
+A front-end e-commerce project that demonstrates basic online shopping functionality.
+
+The project includes product information, shopping cart operations, dynamic total price calculation, and browser-based cart persistence using LocalStorage.
+
+**Technologies:** HTML, CSS, JavaScript, LocalStorage.
+
+[GitHub Repository](https://github.com/hanan-alharbi-cs/online-gift-shop)
+
+---
+
+## 🎓 Education
+
+**Bachelor's Degree in Computer Science**  
+Taibah University  
+Expected Graduation: January 2027
+
+**Associate Degree in Computer Networks**
 
 ---
 
@@ -101,3 +186,7 @@ A web development project for an online gift shopping experience.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hanan-alharbi-7a9b9037a/)
 - 💻 [GitHub](https://github.com/hanan-alharbi-cs)
+
+---
+
+*Building practical software solutions through Artificial Intelligence, Machine Learning, and Software Development.*
